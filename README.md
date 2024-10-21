@@ -12,4 +12,10 @@ The objective of this assignment is to be introduced to managed database service
 ![Azure monitor1](https://github.com/user-attachments/assets/c334de92-20d2-401c-9f35-53b0abe1a8a8)
 ![Azure monitor2](https://github.com/user-attachments/assets/9f5ae279-43cd-4553-ada3-858af91b03af)
 ### *GCP*
-
+![GCP monitor1](https://github.com/user-attachments/assets/6cbbab33-d8d5-4cb7-9c6d-4a9f7d4eef5a)
+![GCP monitor2](https://github.com/user-attachments/assets/5ac52cd8-1b85-4b58-983f-d78e1f859fb5)
+# Reflections
+* Both Azure and GCP had similar process when creating SQL instances however, it took more steps to create the Azure SQL instance
+* Took longer for Azure to process and create the SQL instance then GCP
+* GCP shows more types of monitoring comapred to Azure
+* Overall GCP is easier to use then Azure
