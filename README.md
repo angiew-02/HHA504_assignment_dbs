@@ -18,4 +18,5 @@ The objective of this assignment is to be introduced to managed database service
 * Both Azure and GCP had similar process when creating SQL instances however, it took more steps to create the Azure SQL instance
 * Took longer for Azure to process and create the SQL instance then GCP
 * GCP shows more types of monitoring comapred to Azure
+* GCP has more steps in deleting the SQL instance then Azure
 * Overall GCP is easier to use then Azure
